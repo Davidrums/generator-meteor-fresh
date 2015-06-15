@@ -1,18 +1,20 @@
 {
-  "name": "generator-boilerplate",
+  "name": "generator-Meteor-Fresh",
   "version": "0.1.4",
-  "description": "Yeoman Generator for ...",
+  "description": "Yeoman Generator for Meteor-Fresh",
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/addyosmani/generator-boilerplate.git"
+    "url": "git://github.com//Davidrums/generator-meteor-fresh.git"
   },
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "meteor",
+    "meteor-fresh"
   ],
   "author": {
-    "name": "Addy Osmani",
-    "email": "addyosmani@gmail.com"
+    "name": "David Soff",
+    "email": "david@soff.nl"
   },
   "engines": {
     "node": ">=0.8.0"
