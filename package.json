@@ -1,6 +1,6 @@
 {
   "name": "generator-meteor-fresh",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Yeoman Generator for Meteor-Fresh",
   "main": "app/index.js",
   "repository": {
