@@ -10,7 +10,9 @@
   "keywords": [
     "yeoman-generator",
     "meteor",
-    "meteor-fresh"
+    "meteor-fresh",
+    "fresh",
+    "meteor fresh"
   ],
   "author": {
     "name": "David Soff",
