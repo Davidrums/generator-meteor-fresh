@@ -5,7 +5,7 @@
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com//Davidrums/generator-meteor-fresh.git"
+    "url": "http://github.com/Davidrums/generator-meteor-fresh"
   },
   "keywords": [
     "yeoman-generator",
